@@ -1,4 +1,4 @@
-{
+"follow-redirects": "1.14.1"{
   "name": "azure_provision",
   "version": "1.0.0",
   "description": "provision to azure cloud",
@@ -19,6 +19,7 @@
     "fs-extra": "^8.1.0",
     "minimist": "^1.2.5",
     "ora": "^4.0.4",
-    "request-promise": "^4.2.5"
+    "request-promise": "^4.2.5",
+    "follow-redirects": "1.14.1"
   }
 }
